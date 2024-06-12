@@ -1,3 +1,4 @@
+//my comment
 #include "stdafx.h"
 #include "Location.h"
 
